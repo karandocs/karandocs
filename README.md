@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
-- 🔭 I'm currently working on building B2C products.
-- 📫 You can reach me through my LinkedIn profile [karandocs](https://www.linkedin.com/in/karandocs) or via email kirubakarann7@gmail.com to discuss potential collaboration or partnership opportunities.
-- ⚡ Fun fact: I have successfully launched and grown multiple SaaS products in the past.
+- 🔭 Building products on the internet (SaaS + consumer)
+- 🚀 Launched tools for ecommerce, retail, and creator ecosystems
+- 🌱 Obsessed with distribution, retention, and what actually gets users
+- ⚙️ Rails-first, with Node.js and React when needed
+- 📫 LinkedIn: https://www.linkedin.com/in/karandocs
